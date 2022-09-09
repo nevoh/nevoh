@@ -1,6 +1,6 @@
  # 👋 Hi, I’m @nevoh
 - 👀 I’m interested in advancements in tech
-- 🌱 I’m currently learning Django
+- 🌱 Professional Backend developer.
 - 💞️ I’m looking to collaborate on Start-up projects, APIs, Web apps
 - ❔ Ask me anything to do with backend technologies
 - 📫 How to reach me: Instagram - [cheque__mate](https://www.instagram.com/cheque__mate), Email - nevogola@gmail.com
